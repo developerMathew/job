@@ -1,9 +1,9 @@
 import React from 'react'
 import Home from './Home'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import About from './Pages/About'
-import Skill from './Pages/Skill'
-import Contact from './Pages/Contact'
+import About from './About'
+import Skill from './Skill'
+import Contact from './Contact'
 
 
 
